@@ -1,7 +1,7 @@
-(https://scontent.fdac90-1.fna.fbcdn.net/v/t39.30808-6/407645789_2121624331518965_8238162161019732878_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEs55h-EcuHn9sNORGBzpn5FSM3_j0_vOAVIzf-PT-84CX5fhJlVWsF9rEosN9OlAgngwUKTYrmD0KYkrAaPd7h&_nc_ohc=eBSy4vXQ7qQQ7kNvgGkpoaG&_nc_ht=scontent.fdac90-1.fna&oh=00_AYAGUcWabhqcGsqSa3XN6Nd-RdtzZxLVRmVwGvpxClO-PQ&oe=6679DBDB)
+![Web developer ](https://scontent.fdac90-1.fna.fbcdn.net/v/t39.30808-6/407645789_2121624331518965_8238162161019732878_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEs55h-EcuHn9sNORGBzpn5FSM3_j0_vOAVIzf-PT-84CX5fhJlVWsF9rEosN9OlAgngwUKTYrmD0KYkrAaPd7h&_nc_ohc=eBSy4vXQ7qQQ7kNvgGkpoaG&_nc_ht=scontent.fdac90-1.fna&oh=00_AYAGUcWabhqcGsqSa3XN6Nd-RdtzZxLVRmVwGvpxClO-PQ&oe=6679DBDB)
 ### Hi there 👋, I'm hasibul hasib 
 #### Web developer 
-![Web developer ]
+
 
 B.Sc. Engg. in CSE at BAUST | Founder,Brainiac academics | Social Media Expert | Data Entry Expert | Web developer
 
@@ -31,6 +31,7 @@ Skills: HTML /C/C++
 ![GitHub metrics](https://metrics.lecoq.io/hasibulos)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=hasibulos)  
+
 
 
 
