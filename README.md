@@ -1,21 +1,21 @@
-###### 🌟 Problem Solver 
+### 🌟 Problem Solver 
 
-### 👋 Hi, I'm **Hasibul Hasib**
-B.Sc. Engg. in CSE at BAUST | Social Media Expert | Data Entry Expert | Web developer | ICPC Prep | Coding Challenge
+### 👋 Hi, I'm **Hasibul Hasib**  
+B.Sc. Engg. in CSE at BAUST | Social Media Expert | Data Entry Expert | Web Developer | ICPC Prep | Coding Challenge  
 💻 Passionate about *Web Development*, *Problem Solving*, and *Competitive Programming*
 
-### 🧠 **Skills**
-🌐 HTML
-💻 C, C++
-⚙️ Java, JavaFX
-🗄️ SQL & Database Basics
-🧩 Data Structures & Algorithms
+### 🧠 **Skills**  
+🌐 HTML  
+💻 C, C++  
+⚙️ Java, JavaFX  
+🗄️ SQL & Database Basics  
+🧩 Data Structures & Algorithms  
 
-### 🚀 **Currently**
- 🔭 I’m currently working on improving my **.NET & JavaFX projects**
- 🌱 I’m currently learning **Advanced C++** and **Algorithmic Problem Solving**
- 👯 I’m looking to collaborate on **GitHub open-source projects**
- 💬 Ask me about **Web Development** or **DSA concepts**
+### 🚀 **Currently**  
+🔭 I’m currently working on improving my **.NET & JavaFX projects**  
+🌱 I’m currently learning **Advanced C++** and **Algorithmic Problem Solving**  
+👯 I’m looking to collaborate on **GitHub open-source projects**  
+💬 Ask me about **Web Development** or **DSA concepts**
 
 
 ### **Find Me Online**
