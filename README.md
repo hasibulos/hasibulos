@@ -1,9 +1,7 @@
-![Problem Solver](https://i.imgur.com/XM0BfHn.jpg)
+🌟 Problem Solver 
 
 ### 👋 Hi, I'm **Hasibul Hasib**
-B.Sc. Engg. in CSE at BAUST | Founder,Brainiac academics | Social Media Expert | Data Entry Expert | Web developer
-
-🎓 *Computer Science and Engineering (CSE)* student at **BAUST, Saidpur**
+B.Sc. Engg. in CSE at BAUST | Social Media Expert | Data Entry Expert | Web developer | ICPC Prep | Coding Challenge
 💻 Passionate about *Web Development*, *Problem Solving*, and *Competitive Programming*
 
 ### 🧠 **Skills**
