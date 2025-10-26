@@ -1,4 +1,4 @@
-![Problem Solver](https://raw.githubusercontent.com/hasibulos/hasibulos/main/profile.jpg)
+![Problem Solver](https://i.imgur.com/XM0BfHn.jpg)
 
 ### 👋 Hi, I'm **Hasibul Hasib**
 B.Sc. Engg. in CSE at BAUST | Founder,Brainiac academics | Social Media Expert | Data Entry Expert | Web developer
