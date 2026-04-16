@@ -1,7 +1,7 @@
 ### 🌟 Problem Solver 
 
 ### 👋 Hi, I'm **Hasibul Hasib**  
-B.Sc. Engg. in CSE at BAUST | Social Media Expert | Data Entry Expert | Web Developer | ICPC Prep | Coding Challenge  
+B.Sc. Engg. in CSE at BAUST | Data Entry Expert | Web Developer | ICPC Prep | Coding Challenge  
 💻 Passionate about *Web Development*, *Problem Solving*, and *Competitive Programming*
 
 ### 🧠 **Skills**  
