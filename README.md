@@ -43,13 +43,7 @@
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <br>
 ### 📊 **My GitHub Journey**
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasibulos&show_icons=true&count_private=true&theme=dark" height="190" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulos&layout=compact&theme=dark" height="190" alt="Top Langs" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=hasibulos&theme=dark" height="190" alt="GitHub streak stats" />
-  <img src="https://api.vaunt.dev/v1/github/entities/hasibulos/contributions?format=svg&private=true" height="190" alt="Vaunt Badge" />
-</p>
-  
+| | |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=hasibulos&show_icons=true&count_private=true&theme=dark" height="200" alt="GitHub stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulos&layout=compact&theme=dark" height="200" alt="Top Langs" /> |
+| <img src="https://streak-stats.demolab.com/?user=hasibulos&theme=dark" height="200" alt="GitHub streak stats" /> | <img src="https://api.vaunt.dev/v1/github/entities/hasibulos/contributions?format=svg&private=true" height="200" alt="Vaunt Badge" /> |
