@@ -20,11 +20,11 @@ B.Sc. Engg. in CSE at BAUST | Data Entry Expert | Web Developer | ICPC Prep | Co
 
 ### 🚀 **Currently**
 
-📱 I’m currently developing **Native Android Applications** (Kotlin/Java)
-⚙️ I’m working on **IoT & Hardware Projects** using Arduino/ESP32
-🔭 I’m improving my **.NET & JavaFX projects**
-🌱 I’m learning **Advanced C++ and Algorithmic Problem Solving**
-👯 I’m looking to collaborate on **GitHub open-source projects**
+📱 I’m currently developing **Native Android Applications** (Kotlin/Java) <br>
+⚙️ I’m working on **IoT & Hardware Projects** using Arduino/ESP32 <br>
+🔭 I’m improving my **.NET & JavaFX projects** <br>
+🌱 I’m currently learning **Advanced C++ and Algorithmic Problem Solving** <br>
+👯 I’m looking to collaborate on **GitHub open-source projects** <br>
 💬 Ask me about **Web Development or DSA concepts**
 
 ### **Find Me Online**
