@@ -44,13 +44,12 @@
 ### 📊 **My GitHub Journey**
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasibulos&show_icons=true&count_private=true&theme=dark" alt="GitHub stats" height="180" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulos&layout=compact&theme=dark" alt="Top Langs" height="180" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=hasibulos&show_icons=true&count_private=true&theme=dark" height="190" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulos&layout=compact&theme=dark" height="190" alt="Top Langs" />
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=hasibulos&theme=dark" alt="GitHub streak stats" height="180" /> <br>
-  <img src="https://api.vaunt.dev/v1/github/entities/hasibulos/contributions?format=svg&private=true" alt="Vaunt Badge" height="180" /> <br>
+  <img src="https://streak-stats.demolab.com/?user=hasibulos&theme=dark" height="190" alt="GitHub streak stats" />
+  <img src="https://api.vaunt.dev/v1/github/entities/hasibulos/contributions?format=svg&private=true" height="190" alt="Vaunt Badge" />
 </p>
-
   
