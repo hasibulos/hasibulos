@@ -28,12 +28,19 @@
 
 🧠 **Codeforces:** [codeforces.com/profile/hasibulos](https://codeforces.com/profile/hasibulos)
 
-[<img src='https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white' alt='github'>](https://github.com/hasibulos) [<img src='https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin'>](https://www.linkedin.com/in/hasibulhasib/) [<img src='https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white' alt='facebook'>](https://www.facebook.com/hasibulos)
-
-<br>
+<p align="left">
+  <a href="https://github.com/hasibulos">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="40" alt="github" />
+  </a>
+  <a href="https://www.linkedin.com/in/hasibulhasib/">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" height="40" alt="linkedin" />
+  </a>
+  <a href="https://www.facebook.com/hasibulos">
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" height="40" alt="facebook" /> 
+  </a>
+</p>
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulos)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasibulos&show_icons=true&count_private=true)  
