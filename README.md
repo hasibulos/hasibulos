@@ -32,7 +32,7 @@
   <a href="https://github.com/hasibulos">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Github-Dark.svg" height="40" alt="github" />
   </a>
-  <a href="https://www.linkedin.com/in/hasibulhasib/">
+  <a href="https://www.linkedin.com/in/hasibulos/">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" height="40" alt="linkedin" />
   </a>
   <a href="https://www.facebook.com/hasibulbdit">
