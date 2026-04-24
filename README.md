@@ -35,22 +35,21 @@
   <a href="https://www.linkedin.com/in/hasibulhasib/">
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" height="40" alt="linkedin" />
   </a>
-  <a href="https://www.facebook.com/hasibulos">
+  <a href="https://www.facebook.com/hasibulbdit">
     <img src="https://img.icons8.com/color/48/facebook-new.png" height="40" alt="facebook" />
   </a>
 </p>
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulos)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 **My GitHub Journey**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasibulos&show_icons=true&count_private=true)  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasibulos&show_icons=true&count_private=true&theme=dark" alt="GitHub stats" height="180" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulos&layout=compact&theme=dark" alt="Top Langs" height="180" /> <br>
+</p>
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/hasibulos/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/hasibulos)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=hasibulos)  
-
-
-
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=hasibulos&theme=dark" alt="GitHub streak stats" height="180" /> <br>
+  <img src="https://api.vaunt.dev/v1/github/entities/hasibulos/contributions?format=svg&private=true" alt="Vaunt Badge" height="180" /> <br>
+</p>
 
