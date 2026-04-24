@@ -2,7 +2,7 @@
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F7DF1E&width=435&lines=Hi,+I'm+Hasibul+Hasib" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&width=800&lines=B.Sc.+Engg.+in+CSE+at+BAUST+|+Data+Entry+Expert+|+Web+Developer+|+ICPC+Prep+|+Coding+Challenge&repeat=false" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&width=1000&lines=B.Sc.+Engg.+in+CSE+at+BAUST+|+Data+Entry+Expert+|+Web+Developer+|+ICPC+Prep+|+Coding+Challenge&repeat=false" alt="Typing SVG" /></a>
 💻 Passionate about *Web Development*, *Problem Solving*, and *Competitive Programming*
 
 ### 🧠 **Skills**
