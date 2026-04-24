@@ -36,11 +36,11 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" height="40" alt="linkedin" />
   </a>
   <a href="https://www.facebook.com/hasibulos">
-    <img src="https://img.icons8.com/color/48/000000/facebook-new.png" height="40" alt="facebook" />
+    <img src="https://img.icons8.com/color/48/000000/facebook-f.png" height="40" alt="facebook" style="border-radius: 8px;" />
   </a>
 </p>
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulos)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasibulos&show_icons=true&count_private=true)  
