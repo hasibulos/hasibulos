@@ -1,12 +1,10 @@
 # 🌟 Problem Solver
 
-<p align="left">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DF1E&width=600&lines=Hi,+I'm+Hasibul+Hasib;B.Sc.+Engg.+in+CSE+at+BAUST;Web+Developer+|+Data+Entry+Expert;ICPC+Prep+|+Coding+Challenge" alt="Typing SVG" />
-  </a>
-</p>
+## 👋 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F7DF1E&width=435&lines=Hi,+I'm+Hasibul+Hasib;Hi,+I'm+a+Problem+Solver;Hi,+I'm+a+Web+Developer" alt="Typing SVG" /></a>
 
+**B.Sc. Engg. in CSE at BAUST** | Data Entry Expert | Web Developer | ICPC Prep | Coding Challenge  
 💻 Passionate about *Web Development*, *Problem Solving*, and *Competitive Programming*
+
 ---
 ### 🧠 **Skills**
 
