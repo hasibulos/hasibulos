@@ -4,19 +4,28 @@
 B.Sc. Engg. in CSE at BAUST | Data Entry Expert | Web Developer | ICPC Prep | Coding Challenge  
 💻 Passionate about *Web Development*, *Problem Solving*, and *Competitive Programming*
 
-### 🧠 **Skills**  
-🌐 HTML  
-💻 C, C++  
-⚙️ Java, JavaFX  
-🗄️ SQL & Database Basics  
-🧩 Data Structures & Algorithms  
+---
 
-### 🚀 **Currently**  
-🔭 I’m currently working on improving my **.NET & JavaFX projects**  
-🌱 I’m currently learning **Advanced C++** and **Algorithmic Problem Solving**  
-👯 I’m looking to collaborate on **GitHub open-source projects**  
-💬 Ask me about **Web Development** or **DSA concepts**
+### 🧠 **Skills**
 
+| Category | Skills & Technologies |
+| :--- | :--- |
+| **Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) |
+| **Web Dev** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Backend/Cloud** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **Frameworks** | ![JavaFX](https://img.shields.io/badge/JavaFX-blue?style=flat) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) |
+| **Core CS** | Data Structures & Algorithms (DSA) |
+
+---
+
+### 🚀 **Currently**
+
+* 📱 I’m currently developing **Native Android Applications** (Kotlin/Java)
+* ⚙️ I’m working on **IoT & Hardware Projects** using Arduino/ESP32
+* 🔭 I’m improving my **.NET & JavaFX projects**
+* 🌱 I’m learning **Advanced C++ and Algorithmic Problem Solving**
+* 👯 I’m looking to collaborate on **GitHub open-source projects**
+* 💬 Ask me about **Web Development or DSA concepts**
 
 ### **Find Me Online**
 
