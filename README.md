@@ -2,11 +2,9 @@
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F7DF1E&width=435&lines=Hi,+I'm+Hasibul+Hasib" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&width=1000&lines=B.Sc.+Engg.+in+CSE+at+BAUST+|+Data+Entry+Expert+|+Web+Developer+|+ICPC+Prep+|+Coding+Challenge&repeat=false" alt="Typing SVG" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FFFFFF&width=800&lines=B.Sc.+Engg.+in+CSE+at+BAUST+|+Data+Entry+Expert+|+Web+Developer+|+ICPC+Prep+|+Coding+Challenge&repeat=false" alt="Typing SVG" /></a>
 💻 Passionate about *Web Development*, *Problem Solving*, and *Competitive Programming*
 
----
 ### 🧠 **Skills**
 
 | Category | Skills & Technologies |
@@ -16,8 +14,6 @@
 | **Backend/Cloud** | [<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase">](https://firebase.google.com/) [<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">](https://www.mysql.com/) |
 | **Frameworks** | [<img src="https://img.shields.io/badge/JavaFX-blue?style=flat" alt="JavaFX">](https://openjfx.io/) [<img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET">](https://dotnet.microsoft.com/) |
 | **Core CS** | Data Structures & Algorithms (DSA) |
-
----
 
 ### 🚀 **Currently**
 
