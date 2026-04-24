@@ -36,7 +36,7 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" height="40" alt="linkedin" />
   </a>
   <a href="https://www.facebook.com/hasibulos">
-    <img src="https://img.icons8.com/color/48/000000/facebook-f.png" height="40" alt="facebook" style="border-radius: 8px;" />
+    <img src="https://img.icons8.com/color/48/facebook-new.png" height="40" alt="facebook" />
   </a>
 </p>
 
