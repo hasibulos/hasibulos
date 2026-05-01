@@ -45,11 +45,11 @@
 
 <table border="0">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=hasibulos&show_icons=true&count_private=true&theme=dark&rank_icon=github&cache_seconds=1800" height="195" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=hasibulos&show_icons=true&count_private=true&theme=dark&rank_icon=github&cache_seconds=1500" height="195" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulos&layout=compact&theme=dark&cache_seconds=1800" height="195" /></td>
   </tr>
   <tr>
-    <td><img src="https://streak-stats.demolab.com/?user=hasibulos&theme=dark&cache_seconds=60" height="195" /></td>
+    <td><img src="https://streak-stats.demolab.com/?user=hasibulos&theme=dark&cache_seconds=1500" height="195" /></td>
     <td><img src="https://api.vaunt.dev/v1/github/entities/hasibulos/contributions?format=svg&private=true" height="195" /></td>
   </tr>
 </table>
