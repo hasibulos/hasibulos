@@ -43,13 +43,12 @@
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <br>
 ### 📊 **My GitHub Journey**
 
-<table border="0">
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=hasibulos&show_icons=true&count_private=true&theme=dark&rank_icon=github&cache_seconds=1500" height="195" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasibulos&layout=compact&theme=dark&cache_seconds=1800" height="195" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://streak-stats.demolab.com/?user=hasibulos&theme=dark&cache_seconds=1500" height="195" /></td>
-    <td><img src="https://api.vaunt.dev/v1/github/entities/hasibulos/contributions?format=svg&private=true" height="195" /></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=hasibulos&show_icons=true&count_private=true&theme=dark&rank_icon=github" height="195" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hasibulos&layout=compact&theme=dark" height="195" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hasibulos&theme=dark" height="195" />
+  <img src="https://api.vaunt.dev/v1/github/entities/hasibulos/contributions?format=svg" height="195" />
+</p>
